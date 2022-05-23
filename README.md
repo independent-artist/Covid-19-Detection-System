@@ -11,7 +11,7 @@ The objective of the project work are illustrated below-
 
 Considering all those factors, we can say that there is a need for effective detection system for COVID-19 detection. As the spread of this deadly virus has increased demonically and taken the lives of many people residing in different countries.
 
-1.4	Need of Application:
+Need of Application:
 
 To overcome the problem of costly CT scans and pathological tests, traditional radiography or Chest X-Ray (CXR) images can be useful because CXR is less costly and has minimal harmful consequences. The modern radiographical machines are affordable for average income countries or underdeveloped countries. Hence, in this project work, CXR is used to identify the deadly COVID-19 coronavirus.
 Using a Deep learning approach image classification problem can be solved with the help of transfer learning. Transfer learning is one of the popular approaches in Machine learning which can useful for building an accurate and higher performance model in a short time-span. In computer science, transfer learning is expressed through the utilization of pre-trained model state-of-art CNN models. A pre-trained or previously trained model is a model trained on a large dataset to solve a problem close to the issue investigated in this project.
